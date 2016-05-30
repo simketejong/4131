@@ -13,7 +13,7 @@ To use other Raspberry check pinouts
 ##### http://cdn.instructables.com/FZD/D5LP/HI3TY4Z0/FZDD5LPHI3TY4Z0.SQUARE2.jpg
 ```
 4131									Raspberry  
-Pin 1 (channel select) 		Connect to 	Pin 31   
+Pin 1 (channel select) 		Connect to 	Pin 21   
 Pin 2 (Clock)				Connect to 	Pin 10  
 Pin 3 (DATA)				Connect to 	Pin 11  
 Pin 4 (Vss)					Connect to 	GND (raspberry)  
