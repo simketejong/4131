@@ -1,4 +1,4 @@
-# 4131
+# 4131 connecte to AP182
 ## Configuration
 
 This program uses the python lib GPIO
