@@ -30,5 +30,6 @@ Black to GND raspberry
 Red to 12Volt DC power supply  
 Yellow cable connect to Pin 20 on raspberry  
 Connect Pin 20 (raspberry) to one side of any resistor and the other side to the 5V on raspberry (PULLUP RESISTOR)  
+```
 
 
