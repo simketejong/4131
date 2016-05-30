@@ -10,7 +10,7 @@ sudo apt-get install python-dev python-rpi.gpio
 To use other Raspberry check pinouts
 
 ## The CHIP 4131
-### http://cdn.instructables.com/FZD/D5LP/HI3TY4Z0/FZDD5LPHI3TY4Z0.SQUARE2.jpg
+##### http://cdn.instructables.com/FZD/D5LP/HI3TY4Z0/FZDD5LPHI3TY4Z0.SQUARE2.jpg
 ```
 4131									Raspberry  
 Pin 1 (channel select) 		Connect to 	Pin 31   
