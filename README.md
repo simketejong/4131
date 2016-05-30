@@ -21,11 +21,11 @@ Pin 5 (POA)					Connect to 	GND (raspberry)
 PIN 7 (POB)					Connect to  5V (raspberry)  
 Pin 8 (Vdd)					Connect to 	5V (raspberry)  
 
-###On the 2 pin connector (AP182)
+On the 2 pin connector (AP182)
 Pin 6 (Variable Resistor)	Red Cable on two pin connector on AP182  
 Black Cable two pin connector connect to GND on raspberry.
 
-###On the 3 pin connector (AP182)  
+On the 3 pin connector (AP182)  
 Black to GND raspberry  
 Red to 12Volt DC power supply  
 Yellow cable connect to Pin 20 on raspberry  
