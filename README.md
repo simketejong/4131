@@ -1,4 +1,4 @@
-# 4131 connecte to AP182
+# 4131 connect to AP182 using raspberry
 ## Configuration
 
 This program uses the python lib GPIO
